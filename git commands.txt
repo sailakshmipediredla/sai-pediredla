@@ -1,0 +1,4 @@
+git init
+git remote add sai https://github.com/sailakshmipediredla/sai-pediredla
+git remome -v
+git pull sai master
